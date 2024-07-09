@@ -1,7 +1,7 @@
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
-let numeroMaximo = prompt('Ingrese un número maximo de veces que desea jugar');
+let numeroMaximo = 10;
 
 
 
